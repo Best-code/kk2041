@@ -1,11 +1,11 @@
-	To pull updates 
+To pull updates 
 
-git pull origin master
+	git pull origin master
 
 
 
-	to add updates 
+to add updates 
 
-git add "name of file" or * for all files 
-git commit -m "Commit message goes here"
-git push origin master
+	git add "name of file" or * for all files 
+	git commit -m "Commit message goes here"
+	git push origin master
