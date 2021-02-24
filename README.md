@@ -1,1 +1,3 @@
-# kk2041
+To pull updates type
+
+git pull origin main
